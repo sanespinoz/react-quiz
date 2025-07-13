@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react-swc';
 
-const isGithubPages = process.env.DEPLOY_TARGET === 'GH_PAGES';
+const isGitHubPages = process.env.DEPLOY_TARGET === 'GH_PAGES';
 
 // https://vite.dev/config/
 export default defineConfig({
