@@ -9,6 +9,8 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      DEPLOY_TARGET: GH_PAGES
 
     steps:
       - name: Checkout repository
@@ -21,9 +23,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
-      - name: Run ESLint
-        run: npm run lint || true   # Para no fallar por warnings, podés ajustar
 
       - name: Build project
         run: npm run build
