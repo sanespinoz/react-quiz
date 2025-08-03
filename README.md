@@ -43,6 +43,15 @@ Proyecto de práctica con React y Vite que incluye una configuración mínima pa
 
 ---
 
+## ⚙️ CI/CD con GitHub Actions
+
+Este proyecto utiliza GitHub Actions para ejecutar automáticamente:
+- Instalación de dependencias
+- Tests de unidad
+- Build del proyecto
+- Deploy a Vercel (si aplica)
+
+
 ## 📌 Licencia
 Proyecto para fines educativos y de práctica.
 
