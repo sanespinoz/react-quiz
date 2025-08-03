@@ -1,8 +1,11 @@
 # React + Vite Quiz
 
-![CI](https://github.com/sanespinoz/react-quiz/actions/workflows/main.yml/badge.svg)
+![CI](https://github.com/sanespinoz/react-quiz/actions/workflows/ci-cd.yml/badge.svg)
 
-Demo: [https://react-quiz-six-green.vercel.app](https://react-quiz-six-green.vercel.app)
+Este proyecto es una práctica con React y Vite que incluye ESLint y despliegue automático con GitHub Actions.
+
+🔗 Demo: [https://react-quiz-six-green.vercel.app](https://react-quiz-six-green.vercel.app)
+
 
 
 ---
