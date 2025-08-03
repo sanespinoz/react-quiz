@@ -1,6 +1,9 @@
 # React + Vite Quiz
 
-Demo online: [https://react-quiz-six-green.vercel.app](https://react-quiz-six-green.vercel.app)
+![CI](https://github.com/sanespinoz/react-quiz/actions/workflows/main.yml/badge.svg)
+
+Demo: [https://react-quiz-six-green.vercel.app](https://react-quiz-six-green.vercel.app)
+
 
 ---
 
